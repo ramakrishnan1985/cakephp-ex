@@ -1,4 +1,6 @@
 <?php
+
+var_dump("Helloooo");
 /**
  * CakePHP(tm) : Rapid Development Framework (https://cakephp.org)
  * Copyright (c) Cake Software Foundation, Inc. (https://cakefoundation.org)
@@ -14,3 +16,6 @@
  */
 
 require 'webroot' . DIRECTORY_SEPARATOR . 'index.php';
+
+
+?>
